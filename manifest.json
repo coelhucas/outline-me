@@ -1,0 +1,21 @@
+{
+  "name": "Outline me",
+  "description": "Quickly get an article in outline.com",
+  "permissions": ["activeTab", "scripting"],
+  "version": "1.0",
+  "manifest_version": 3,
+  "commands": {
+    "run_outline_me": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+O"
+      },
+      "description": "Run Outline me on current page"
+    }
+  },
+  "action": {
+    "default_title": "Redirects to an outline.com version of the article."
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
