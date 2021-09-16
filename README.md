@@ -8,9 +8,9 @@ I got the habit of using outline.com to read articles without noise but I'm too 
 ## Using
 After installing this extension, you can use:
 
-`⌘⇧` - macOS
+`⌘⇧O` - macOS
 
-`⌃⇧` - win/linux
+`⌃⇧O` - win/linux
 To be redirected to an outline.com/active-tab-url
 
 ## Disclaimer
