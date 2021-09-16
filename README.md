@@ -8,10 +8,12 @@ I got the habit of using outline.com to read articles without noise but I'm too 
 ## Using
 After installing this extension, you can use:
 
-`⌘⇧O` - macOS
+`⌘⇧O` - macOS*
 
-`⌃⇧O` - win/linux
+`⌃⇧O` - win/linux*
 To be redirected to an outline.com/active-tab-url
+
+Shortcuts use `⎇ | ⌥` (**alt**ernative|option key) in Firefox version.
 
 ## Disclaimer
 I noticed after creating it that there's already an extension for it. But [I regret nothing](https://en.wikipedia.org/wiki/Not_invented_here).
