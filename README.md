@@ -10,12 +10,13 @@ P.S.: This can also save you from some paywalls 👀
 ## Using
 After installing this extension, you can use:
 
-`⌘⇧O` - macOS*
+<kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>O</kbd> - macOS*
 
-`⌃⇧O` - win/linux*
+<kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>O</kbd> - Win/Linux*
+
 To be redirected to an outline.com/active-tab-url
 
-Shortcuts use `⎇ | ⌥` (**alt**ernative|option key) in Firefox version.
+Shortcuts use <kbd>⎇</kbd> | <kbd>⌥</kbd> (**alt**ernative|option key) in Firefox version.
 
 ## Disclaimer
 I noticed after creating it that there's already an extension for it. But [I regret nothing](https://en.wikipedia.org/wiki/Not_invented_here).
