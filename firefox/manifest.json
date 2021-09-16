@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Outline me",
+    "version": "1.0",
+    "description": "Quickly get an article in outline.com",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_icon": "icons/application.png",
+      "default_title": "Outline me"
+    },
+    "commands": {
+      "run_outline_me": {
+        "suggested_key": {
+          "default": "Shift+Alt+O"
+        },
+        "description": "Run Outline me on current page"
+      }
+    },
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
