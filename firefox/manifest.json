@@ -5,8 +5,14 @@
     "description": "Quickly get an article in outline.com",
     "permissions": ["activeTab"],
     "browser_action": {
-      "default_icon": "icons/application.png",
-      "default_title": "Outline me"
+      "default_icon": {
+        "16": "icons/icon-16.png",
+        "32": "icons/icon-32.png",
+        "48": "icons/icon-48.png",
+        "128": "icons/icon-128.png"
+      },
+      "default_title": "Outline me",
+      "default_description": "im a test"
     },
     "commands": {
       "run_outline_me": {
