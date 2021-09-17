@@ -1,11 +1,15 @@
-![Outline me "logo"](logo-128.png)
-# Outline me
+<h1 align="center"><img src="logo-128.png" width="64" alt="Outline me 'logo'" />
+
+Outline me
+
+</h1>
 
 https://user-images.githubusercontent.com/28108272/133683863-c93ed54b-77e7-48e4-b6e7-daf57d671bc4.mp4
 
 ## About
 I got the habit of using outline.com to read articles without noise but I'm too lazy to keep going to outline to paste an article's link, so I made this in a way that we all can quickly be redirected to an "outlined" version of the article.
-Logo by :sparkles: [Thais Pezenti](https://linktree.com.br/new/ThaisPezenti) :sparkles:
+
+Logo and icons by :sparkles: [Thais Pezenti](https://linktree.com.br/new/ThaisPezenti) :sparkles:
 
 P.S.: This can also save you from some paywalls 👀
 
