@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Outline me",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Quickly get an article in outline.com",
     "permissions": ["activeTab"],
     "browser_action": {
@@ -12,7 +12,6 @@
         "128": "icons/icon-128.png"
       },
       "default_title": "Outline me",
-      "default_description": "im a test"
     },
     "commands": {
       "run_outline_me": {
