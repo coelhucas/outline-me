@@ -16,9 +16,12 @@ P.S.: This can also save you from some paywalls 👀
 ## Using
 After installing this extension, you can use:
 
-<kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>O</kbd> - macOS*
-
-<kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>O</kbd> - Win/Linux*
+| Shortcut | OS | Browser |
+| -------- | -- | ------- |
+| <kbd>⌘</kbd> + <kbd>⇧</kbd> + <kbd>O</kbd> | macOS | Chrome |
+| <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>O</kbd> | Windows/Linux | Chrome |
+| <kbd>⌥</kbd> + <kbd>⇧</kbd> + <kbd>O</kbd> | macOS | Firefox |
+| <kbd>⎇</kbd> + <kbd>⇧</kbd> + <kbd>O</kbd> | Windows/Linux | Firefox |
 
 To be redirected to an outline.com/active-tab-url
 
