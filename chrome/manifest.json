@@ -1,8 +1,8 @@
 {
   "name": "Outline me",
   "description": "Quickly get an article in outline.com",
-  "permissions": ["activeTab", "scripting"],
-  "version": "1.1",
+  "permissions": ["activeTab"],
+  "version": "1.0",
   "manifest_version": 3,
   "icons": {
     "16": "icons/icon-16.png",
