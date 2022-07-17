@@ -1,3 +1,6 @@
+## ⚠️ Outline.com is no longer available
+> See [what happened to Outline.com](https://news.ycombinator.com/item?id=30564665). Try [textify](https://txtify.it/) as an alternative for reading articles without visual noise.
+
 <h1 align="center"><img src="logo-128.png" width="64" alt="Outline me 'logo'" />
 
 Outline me
