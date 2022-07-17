@@ -11,7 +11,7 @@ I got the habit of using outline.com to read articles without noise but I'm too 
 
 Available on [Chrome](https://chrome.google.com/webstore/detail/outline-me/hgbhppchgchgfpgkmifbkolaeadghfjo) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/outline-me/) stores!
 
-Logo and icons by :sparkles: [Thais Pezenti](https://linktree.com.br/new/ThaisPezenti) :sparkles:
+Logo and icons by :sparkles: [Thais Pezenti](https://www.linkedin.com/in/thaispezenti/) :sparkles:
 
 P.S.: This can also save you from some paywalls 👀
 
